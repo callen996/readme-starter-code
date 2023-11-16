@@ -32,10 +32,7 @@ node index.js
 ```
 <a name="demo"/>
 
-## Demo
 
-This is a demo of running the program in the command line and can be viewed at the Google drive link:
-https://drive.google.com/file/d/1luTUMU6pGZAh1IP5PsJyDV6L3PGDK2ri/view?usp=sharing
 
 <a name="license"/>
 
