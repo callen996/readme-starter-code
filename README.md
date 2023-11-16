@@ -6,11 +6,9 @@ An app that dynamically creates a readme.md file
 ## Table of Contents
  * [Installation](#installation)
   * [Usage](#usage)
-  * [Demo Video](#demo)
-  * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
-  * [Questions](#questions)
+ 
 
 <a name="installation"/>
 
