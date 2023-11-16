@@ -44,16 +44,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AllenM03/professional-readme-creator.git"
+    "url": "https://github.com/callen996/readme-starter-code"
   },
   "keywords": [
     "readme",
     "creator"
   ],
-  "author": "Allen McBroom Bey",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/AllenM03/professional-readme-creator/issues"
+
   },
-  "homepage": "https://github.com/AllenM03/professional-readme-creator#readme"
+  "homepage": "https://github.com/callen996/readme-starter-code"
 }
