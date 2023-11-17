@@ -1,5 +1,5 @@
 {
-  "name": "professional-readme-creator",
+  "name": "readme-creator",
   "version": "1.0.0",
   "description": "an app that generate a professional readme file from the user's terminal command line.",
   "main": "index.js",
